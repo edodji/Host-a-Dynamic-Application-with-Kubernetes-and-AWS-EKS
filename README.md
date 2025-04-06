@@ -1,4 +1,4 @@
-![Alt text](/Host-a-Dynamic-Application-with-Kubernetes-and-AWS-EKS)
+![Alt text](/5._Host_a_Dynamic_Web_App_on_AWS_with_Kubernetes_and_Amazon_EKS.png)
 
 # Host-a-Dynamic-Application-with-Kubernetes-and-AWS-EKS
 
