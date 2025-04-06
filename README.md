@@ -1,4 +1,4 @@
-![Alt text](/
+![Alt text](/Host-a-Dynamic-Application-with-Kubernetes-and-AWS-EKS)
 
 # Host-a-Dynamic-Application-with-Kubernetes-and-AWS-EKS
 
