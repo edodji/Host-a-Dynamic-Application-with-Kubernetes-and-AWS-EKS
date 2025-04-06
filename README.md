@@ -1,3 +1,5 @@
+![Alt text](/
+
 # Host-a-Dynamic-Application-with-Kubernetes-and-AWS-EKS
 
 This project demonstrates how to host a secure, scalable, and fault-tolerant dynamic web application using **Kubernetes on AWS EKS**. The solution includes complete DevOps practices from infrastructure provisioning, CI/CD containerization, to secure secret management and high availability.
